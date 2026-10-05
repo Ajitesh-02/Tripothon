@@ -1,12 +1,5 @@
 {
   "dependencies": {
-
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "com.unity.modules.jsonserialize": "1.0.0"
-      }
-    },
     "com.unity.ai.navigation": {
       "version": "2.0.12",
       "depth": 0,
